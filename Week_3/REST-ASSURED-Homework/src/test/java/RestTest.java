@@ -5,8 +5,8 @@ import static org.hamcrest.Matchers.lessThan;
 
 public class RestTest {
     String root = "https://api.trello.com/";
-    String tapi = "8fec1ddfc5bf4158b663c0654d20e42b";
-    String token = "a08179e0d31a5af9c5d8421e1142dd81debceabd54771d665bf34e573f9975ac";
+    String tapi = "8fec1ddfc5bf4158b663c0654****";
+    String token = "a08179e0d31a5af9c5d8421e1142dd81debceabd54771d665bf34e****";
 
 
     @Test
